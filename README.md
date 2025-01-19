@@ -1,5 +1,5 @@
 # 💫 About Me:
-A CS undergrad trying not to cry.
+A CS undergrad trying not to cry. (Stats does not include private commits.)
 
 
 # 💻 Tech Stack:
