@@ -1,5 +1,6 @@
 # About Me:
 A CS undergrad trying not to cry. (Stats does not include private commits.)
+https://leetcode.com/u/dNGMEj8J4B/
 
 
 # Tech Stack:
